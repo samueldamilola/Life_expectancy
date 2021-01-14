@@ -1,12 +1,12 @@
 # Life Expectancy
 The
-data provided in this <a href='https://www.kaggle.com/augustus0498/life-expectancy-who>kaggle link</a> is the life expectancy data from the kaggle which is provided by the World Health Organization (W.H.O).
+data provided in https://www.kaggle.com/augustus0498/life-expectancy-who is the life expectancy data from the kaggle which is provided by the World Health Organization (W.H.O).
   
 ## Dataset Description
 
 The data consists of the following columns:
 
-'Country' : Country <span style="border-left:2px solid black;height:2px;margin-left:300px;padding-left:30px;">'Status': Status </span>
+'Country' : Country 'Status': Status </span>
     
  'Year': Year
 
