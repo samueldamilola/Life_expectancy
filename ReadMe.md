@@ -1,6 +1,6 @@
 # Life Expectancy
-The data used in this project was provided in https://www.kaggle.com/augustus0498/life-expectancy-who Also, the second dataset that was merge with the first data can be obtained from his the life expectancy data from the kaggle which is provided by the World Health Organization (W.H.O).
-  
+The data used in this project was provided by World Health Organization (W.H.O) in https://www.kaggle.com/augustus0498/life-expectancy-who. Also, the second dataset that was merge with the first data can be obtained from https://github.com/samueldamilola/Life_expectancy/blob/master/Region.csv
+
 ### Dataset Description
 
 The data consists of the following columns:
