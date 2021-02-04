@@ -17,8 +17,7 @@ Many factors has been noted to affect the life expectancy of countries. However,
 Check it out here [Data Cleaning](https://github.com/samueldamilola/Life_expectancy/blob/master/Data%20importation%20and%20cleaning.ipynb)
 
 ## Exploratory Data Analysis
-*check out the relationship in our categorical features<br>
-We will consider the following features: ['Status', 'Region', 'Income group']<br>
+* check out the relationship in our categorical features, I considered the following features: ['Status', 'Region', 'Income group']<br>
 * Distributions of numerical variable  was looked into
 Detail and well explained comments are here [EDA](https://github.com/samueldamilola/Life_expectancy/blob/master/Exploratory%20Data%20Analysis.ipynb)
 
