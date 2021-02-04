@@ -23,11 +23,17 @@ Detail and well explained comments are here [EDA](https://github.com/samueldamil
 
 ## Model Performance
 **Multiple Regression:**    
-    MAE = 1.8063
-    R2 = 0.936<br>
-**Support Vector Regressor:**       4.6823            0.407<br>
-**Lasso:**                          2.0168            0.904<br>
-**Random forest Regressor:**        2.0194            0.931<br>
+        MAE = 1.8063<br>
+        R2 = 0.936<br>
+**Support Vector Regressor:**       
+        MAE = 4.6823<br>
+        R2 = 0.407<br>
+**Lasso:** 
+        MAE = 2.0168<br>
+        R2 =0.904<br>
+**Random forest Regressor:**   
+        MAE = 2.0194<br>
+        R2 = 0.931<br>
 
 * for details [Click here](https://github.com/samueldamilola/Life_expectancy/blob/master/Model%20Building.ipynb)
 
