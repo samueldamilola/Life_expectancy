@@ -22,7 +22,7 @@ Check it out here [Data Cleaning](https://github.com/samueldamilola/Life_expecta
 Detail and well explained comments are here [EDA](https://github.com/samueldamilola/Life_expectancy/blob/master/Exploratory%20Data%20Analysis.ipynb)
 
 ## Model Performance
-                                      MAE               R2<br>
+                                      MAE               R2
 **Multiple Regression:**            1.8063            0.936<br>
 **Support Vector Regressor:**       4.6823            0.407<br>
 **Lasso:**                          2.0168            0.904<br>
