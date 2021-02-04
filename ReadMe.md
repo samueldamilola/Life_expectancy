@@ -18,21 +18,23 @@ Many factors has been noted to affect the life expectancy of countries. How sign
 Check it out here [Data Cleaning](https://github.com/samueldamilola/Life_expectancy/blob/master/Data%20importation%20and%20cleaning.ipynb)
 
 ## Exploratory Data Analysis
-
-
-
-
-* [EDA](https://github.com/samueldamilola/Life_expectancy/blob/master/Exploratory%20Data%20Analysis.ipynb)
-* [Model Building](https://github.com/samueldamilola/Life_expectancy/blob/master/Model%20Building.ipynb)
-* [Model deployment](https://github.com/samueldamilola/Life_expectancy/tree/master/Flask_API)
+*check out the relationship in our categorical features<br>
+We will consider the following features: ['Status', 'Region', 'Income group']<br>
+* Distributions of numerical variable  was looked into
+Detail and well explained comments are here [EDA](https://github.com/samueldamilola/Life_expectancy/blob/master/Exploratory%20Data%20Analysis.ipynb)
 
 ## Model Performance
-                                      MAE               R2
-**Multiple Regression:**            1.8063            0.936
-**Support Vector Regressor:**       4.6823            0.407
-**Lasso:**                          2.0168            0.904
+                                      MAE               R2<br>
+**Multiple Regression:**            1.8063            0.936<br>
+**Support Vector Regressor:**       4.6823            0.407<br>
+**Lasso:**                          2.0168            0.904<br>
 **Random forest Regressor:**        2.0194            0.931
 
-* for details [Click here](https://github.com/samueldamilola/Life_expectancy/blob/master/Model%20Building.ipynb building)
+* for details [Click here](https://github.com/samueldamilola/Life_expectancy/blob/master/Model%20Building.ipynb)
 
+## Deployment
+This deployment was used using Flask API
+check it [here](https://github.com/samueldamilola/Life_expectancy/tree/master/Flask_API)
 
+## Acknowledgement
+I would like to acknowledge Kee Jee for providing massive support indirectly. Ideas gotten to build the regression project was from his videos on Data science projects for beginners. Thanks
