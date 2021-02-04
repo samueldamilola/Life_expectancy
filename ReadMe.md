@@ -6,7 +6,7 @@
 * Built Flask API
 
 ## Motivation
-Many factors has been noted to affect the life expectancy of countries. However, the significant of this factors not widely known. Therefore, looking extensively into these factors and how these factors can help have positive correlation and impact of life expectancy.
+Many factors has been noted to affect the life expectancy of countries. However, the significant of these factors are not widely known. Therefore, looking extensively into these factors and how these factors can help have positive correlation and impact on life expectancy form the basis of this project.
 
 ## Packages Used
 **Python version:** 3.6<br>
