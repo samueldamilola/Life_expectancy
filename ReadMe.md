@@ -11,7 +11,7 @@ Many factors has been noted to affect the life expectancy of countries. However,
 ## Packages Used
 **Python version:** 3.6<br>
 **Packages:** Numpy, Pandas, matplotlib, seaborn, flask, pickle, json, requests<br> 
-**Web Framework Requirement:** '''pip install -r requirement'''<br>
+**Web Framework Requirement:** '''pip install -r requirements.txt'''<br>
 
 ## Data Cleaning
 Check it out here [Data Cleaning](https://github.com/samueldamilola/Life_expectancy/blob/master/Data%20importation%20and%20cleaning.ipynb)
