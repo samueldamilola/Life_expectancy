@@ -42,4 +42,4 @@ This deployment was used using Flask API
 check it [here](https://github.com/samueldamilola/Life_expectancy/tree/master/Flask_API)
 
 ## Acknowledgement
-I would like to acknowledge Kee Jee for providing massive support indirectly. Ideas gotten to build the regression project was from his videos on Data science projects for beginners. Thanks
+I would like to acknowledge and thank Kee Jee for providing massive support indirectly. Ideas used to build this regression project was gotten from his videos.
